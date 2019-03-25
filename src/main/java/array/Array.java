@@ -1,9 +1,6 @@
-package arrayTest;
+package array;
 
-import java.util.ArrayList;
-import java.util.List;
-
-public class Array1 {
+public class Array {
 
     public static void main(String[] args) {
         System.out.println("321321");
